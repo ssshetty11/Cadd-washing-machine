@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  --include "C:/Vivado/2017.4/data/xilinx_vip/include" \
+"../../../../project_cad_take2.srcs/sources_1/new/washing_machine.sv" \
+"../../../../project_cad_take2.srcs/sim_1/new/washingmachine_tb1.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

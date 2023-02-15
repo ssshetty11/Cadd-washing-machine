@@ -1,0 +1,7 @@
+0.6
+2017.4
+Dec 15 2017
+21:07:18
+C:/Users/Sanchay/project_cad_take2/project_cad_take2.sim/sim_1/behav/xsim/glbl.v,1513215259,verilog,,,,glbl,,xil_defaultlib,,,,,,
+C:/Users/Sanchay/project_cad_take2/project_cad_take2.srcs/sim_1/new/washingmachine_tb1.sv,1668759127,systemVerilog,,,,washingmachine_tb1,,xil_defaultlib,C:/Vivado/2017.4/data/xilinx_vip/include,,,,,
+C:/Users/Sanchay/project_cad_take2/project_cad_take2.srcs/sources_1/new/washing_machine.sv,1668669479,systemVerilog,,C:/Users/Sanchay/project_cad_take2/project_cad_take2.srcs/sim_1/new/washingmachine_tb1.sv,,washing_machine,,xil_defaultlib,C:/Vivado/2017.4/data/xilinx_vip/include,,,,,

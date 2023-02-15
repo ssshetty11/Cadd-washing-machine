@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Fri Nov 18 13:43:06 2022
+# Process ID: 11924
+# Current directory: C:/Users/Sanchay/project_cad_take2/project_cad_take2.runs/synth_1
+# Command line: vivado.exe -log washing_machine.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source washing_machine.tcl
+# Log file: C:/Users/Sanchay/project_cad_take2/project_cad_take2.runs/synth_1/washing_machine.vds
+# Journal file: C:/Users/Sanchay/project_cad_take2/project_cad_take2.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source washing_machine.tcl -notrace
